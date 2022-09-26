@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.debug #site_header {
+    height: 100px;
+    background-color: black;
+}
+
+.debug .menu-left {
+    height: 50px;
+    background-color: blueviolet;
+}
+
+.debug .menu-right {
+    height: 50px;
+    background-color: red;
+}
+
+.debug .start {
+    background-color: aquamarine;
+    height: 400px;
+}
+
+.debug .box {
+    background-color: blueviolet;
+    height: 200px;
+    width: 200px;
+}
+
+.debug .portfolio {
+    padding: 3rem 0;
+}
+
+.debug .block {
+    background-color: brown;
+    height: 200px;
+    width: 300px;
+}
+
+.debug .about {
+    background-color: aquamarine;
+    height: 400px;
+}
+

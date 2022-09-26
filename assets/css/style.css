@@ -45,3 +45,9 @@
     height: 400px;
 }
 
+.debug .block_top {
+    background-color: black;
+    height: 100px;
+    width: 100%;
+}
+

@@ -103,4 +103,37 @@ body {
     color: white;
 }
 
+.bar_bl {
+    background: black;
+    width: 100px;
+    height: 2px;
+    border-radius: 2rem;
+}
+
+.star-bl {
+    color: black;
+}
+
 /* #endregion header */
+
+/* #region main */
+
+/* PORTFOLIO */
+
+.bar_bl {
+    background: black;
+    width: 100px;
+    height: 2px;
+    border-radius: 2rem;
+}
+
+.star-bl {
+    color: black;
+}
+
+.portfolio img {
+    border-radius: 10px;
+}
+
+
+/* #endregion main */

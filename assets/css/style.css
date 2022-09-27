@@ -1,11 +1,20 @@
+
+/* #region utility */
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
+
+
+
+/* #endregion utility */
+
+/* #region debug */
+
 .debug #site_header {
-    height: 100px;
     background-color: black;
 }
 
@@ -21,17 +30,12 @@
 
 .debug .start {
     background-color: aquamarine;
-    height: 400px;
 }
 
 .debug .box {
     background-color: blueviolet;
     height: 200px;
     width: 200px;
-}
-
-.debug .portfolio {
-    padding: 3rem 0;
 }
 
 .debug .block {
@@ -42,12 +46,40 @@
 
 .debug .about {
     background-color: aquamarine;
-    height: 400px;
 }
 
 .debug .block_top {
     background-color: black;
-    height: 100px;
-    width: 100%;
+    height: 80px;
 }
+
+.debug .block-l {
+    background-color: goldenrod;
+    height: 200px;
+}
+
+.debug .block-r {
+    background-color: blue;
+    height: 200px;
+}
+
+.debug .top_bar {
+    background-color: black;
+    height: 80px;
+}
+
+.debug .bar {
+    height: 50px;
+    background-color: brown;
+}
+
+.debug .big-bar {
+    height: 150px;
+    background-color: brown;
+}
+
+/* #endregion debug */
+
+
+
 
